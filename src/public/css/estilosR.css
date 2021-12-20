@@ -1,0 +1,9 @@
+*{margin:0; padding:0;}
+
+body{
+    background-image: url(../images/fondoR.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color:#fff;
+    backdrop-filter: blur(4px);
+}
